@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 
-hi,article 1
+hi,article 2
