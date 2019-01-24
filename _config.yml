@@ -17,16 +17,6 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
-<<<<<<< HEAD
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
-=======
-# social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
-
-show_excerpts: true # set to false to remove excerpts on the homepage
-
-theme: jekyll-theme-cayman
->>>>>>> bd637b038c26c8e56ffc3d78d135930f9378ec90
